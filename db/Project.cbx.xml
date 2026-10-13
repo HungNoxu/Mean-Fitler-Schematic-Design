@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Project">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Project|Datapath:Datapath|RAM_1_PORT:inst7|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_lpa1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Project|Datapath:Datapath|RAM_1_PORT:inst8|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_lpa1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Project|Datapath:Datapath|RAM_2_PORT:inst13|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_t0p1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Project|Datapath:Datapath|RAM_2_PORT:inst6|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_t0p1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
